@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Creates an ADT of matrix with cacheing of inverse
 ## Takes a matrix, returns a list object
 
